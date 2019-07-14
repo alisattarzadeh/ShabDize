@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0d4b7d50-3e6d-49dc-a8a0-7ac71bcf66d7" name="Default Changelist" comment="" />
+    <list default="true" id="0d4b7d50-3e6d-49dc-a8a0-7ac71bcf66d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/custom-sass/variable.scss" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/variable.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,14 +22,14 @@
     </execution>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.68154764">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="672">
-                  <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
+                <state relative-caret-position="413">
+                  <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
                 </state>
               </provider>
             </entry>
@@ -33,8 +41,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
-                  <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+                <state relative-caret-position="252">
+                  <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
                 </state>
               </provider>
             </entry>
@@ -43,16 +51,7 @@
             <entry file="file://$PROJECT_DIR$/custom-sass/variable.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="24">
-                  <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/custom-sass/style-all.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="48">
-                  <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+                  <caret line="1" column="17" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -66,7 +65,11 @@
       <find>pp-nav</find>
       <find>vertical-align</find>
       <find>pp-tableCell</find>
+      <find>red</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,20 +78,23 @@
         <option value="$PROJECT_DIR$/custom-sass/index.sass" />
         <option value="$PROJECT_DIR$/scss/core/_typography.scss" />
         <option value="$PROJECT_DIR$/custom-sass/style-all.scss" />
-        <option value="$PROJECT_DIR$/custom-sass/variable.scss" />
         <option value="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.css" />
         <option value="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.css" />
         <option value="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.js" />
         <option value="$PROJECT_DIR$/package-lock.json" />
-        <option value="$PROJECT_DIR$/custom-sass/index.scss" />
+        <option value="$PROJECT_DIR$/custom-sass/variable.scss" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/custom-sass/index.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="2044" />
+    <option name="y" value="-33" />
+    <option name="width" value="1152" />
+    <option name="height" value="618" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -104,20 +110,7 @@
             <path>
               <item name="ShabDize" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShabDize" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShabDize" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShabDize" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShabDize" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShabDize" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="index" type="462c0819:PsiDirectoryNode" />
+              <item name="custom-sass" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,6 +120,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/img/page/index" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -179,28 +173,30 @@
       <updated>1563019814680</updated>
       <workItem from="1563019816059" duration="12817000" />
       <workItem from="1563096909113" duration="802000" />
+      <workItem from="1563117411024" duration="2634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13619000" />
+    <option name="totallyTimeSpent" value="17177000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="1920" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" sideWeight="0.45945945" side_tool="true" weight="0.28038067" />
       <window_info id="Favorites" order="1" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
-      <window_info content_ui="combo" id="Project" order="2" sideWeight="0.55859375" weight="0.21083455" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.55859375" visible="true" weight="0.12440476" />
       <window_info id="Structure" order="3" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.2942899" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="3" weight="0.6744792" />
+      <window_info anchor="bottom" id="Version Control" order="3" weight="0.6742857" />
       <window_info anchor="bottom" id="Database Changes" order="4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3235725" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32421875" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.39970717" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32380953" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3990476" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" weight="0.3268229" />
@@ -314,31 +310,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/custom-sass/style-all.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="88" column="33" selection-start-line="88" selection-start-column="33" selection-end-line="88" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="133" column="6" selection-start-line="133" selection-start-column="6" selection-end-line="133" selection-end-column="6" />
+        <state relative-caret-position="48">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/custom-sass/variable.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+          <caret line="1" column="17" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-sass/style-all.scss">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="413">
+          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="63" column="19" selection-start-line="63" selection-start-column="19" selection-end-line="63" selection-end-column="19" />
         </state>
       </provider>
     </entry>
