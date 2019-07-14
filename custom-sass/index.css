@@ -126,7 +126,8 @@
 #header .header-search-center div button {
   background-color: #bc0024;
   color: white;
-  padding: 10px 10px;
+  font-size: 13px;
+  padding: 12px 12px;
   border-top-right-radius: 0px;
   border-top-left-radius: 20px;
   border-bottom-right-radius: 0px;
@@ -142,11 +143,15 @@
 }
 #header .header-search-center div input::placeholder {
   color: #a5a5a5;
+  padding-right: 15px;
+  font-size: 13px;
 }
 #header .header-search-center div .header-select {
   width: 100px;
   height: 39px;
   outline: none;
+  font-size: 13px;
+  padding-right: 10px;
   border: #d2d2d2 1px solid;
   border-top-right-radius: 20px;
   border-top-left-radius: 0px;
