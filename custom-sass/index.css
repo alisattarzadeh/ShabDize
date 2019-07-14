@@ -174,7 +174,7 @@
 #header .header-image-bottom {
   grid-area: image;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: flex-end;
 }
 #header .header-image-bottom .img-card {
@@ -183,15 +183,16 @@
   justify-content: space-between;
   align-items: center;
 }
-#header .header-image-bottom .img-card #chagho {
-  margin-left: 200px;
+#header .header-image-bottom #chagho {
+  margin-right: 80px;
   height: 300px;
   width: 40px;
 }
-#header .header-image-bottom .img-card #sos2 {
-  margin-left: 200px;
-  height: 50px;
-  width: 50px;
+#header .header-image-bottom #sos2 {
+  margin-left: 35px;
+  height: 120px;
+  width: 120px;
+  margin-bottom: 30px;
 }
 #header .header-image-bottom .img-pizza img {
   width: 500px;
@@ -202,13 +203,14 @@
   justify-content: space-between;
   align-items: center;
 }
-#header .header-image-bottom .img-fork #sos {
-  margin-right: 200px;
-  height: 50px;
-  width: 50px;
+#header .header-image-bottom #sos {
+  margin-right: 50px;
+  height: 120px;
+  width: 120px;
+  margin-bottom: 30px;
 }
-#header .header-image-bottom .img-fork #changal {
-  margin-right: 200px;
+#header .header-image-bottom #changal {
+  margin-left: 80px;
   height: 300px;
   width: 50px;
 }
