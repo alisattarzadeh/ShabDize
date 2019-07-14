@@ -1,0 +1,147 @@
+@import "../node_modules/normalize.css/normalize.css";
+.btn-yellow-shabdiz {
+  background-color: #fbd460;
+}
+
+@font-face {
+  font-family: "yekan";
+  src: url("../font/YekanWebBold.otf");
+  font-weight: 200;
+}
+* {
+  font-family: yekan;
+}
+
+#pp-nav {
+  display: none;
+}
+
+.pp-tableCell {
+  vertical-align: baseline;
+}
+
+.section {
+  background: url("../img/page/index/background2.jpg");
+  background-size: 500px;
+  background-repeat: repeat;
+}
+
+#header {
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: 150px 110px 1fr;
+  grid-template-areas: "side logo logo logo logo  logo" "side search search search search search" "side image image image image image";
+}
+#header .item {
+  border: 2px #000 solid;
+}
+#header .header-side-left {
+  grid-area: side;
+  background-color: #fbd460;
+  border: 1px red solid;
+  display: grid;
+  justify-content: center;
+  align-content: space-around;
+  text-align: center;
+  direction: rtl;
+}
+#header .header-side-left .header-side-icon > .img-icon {
+  color: #000000;
+}
+#header .header-side-left .header-side-icon > .text-icon {
+  color: #bc0024;
+}
+#header .header-side-left .header-side-icon > .mini-text-icon {
+  color: #3c3c3c;
+}
+#header .header-top {
+  padding: 0 7%;
+  grid-area: logo;
+  border: 1px red solid;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header .header-top .logo img {
+  width: 120px;
+}
+#header .header-top .logo .logo > img::before {
+  content: "";
+  width: 100%;
+  border-bottom: solid 1px #fff;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  z-index: 1;
+}
+#header .header-top .logo .logo > img::after {
+  content: "";
+  width: 100%;
+  border-bottom: solid 1px #fff;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  z-index: 1;
+}
+#header .header-top .menu-icon {
+  font-size: 30px;
+}
+#header .header-menu-top {
+  grid-area: menu;
+  border: 1px red solid;
+}
+#header .header-search-center {
+  grid-area: search;
+  border: 1px red solid;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#header .header-search-center div button {
+  background-color: #bc0024;
+  color: white;
+  padding: 10px 10px;
+  border-top-right-radius: 0px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 10px;
+  border: none;
+  outline: none;
+}
+#header .header-search-center div input {
+  height: 39px;
+  width: 400px;
+  border: #d2d2d2 1px solid;
+  outline: none;
+}
+#header .header-search-center div input::placeholder {
+  color: #a5a5a5;
+}
+#header .header-search-center div select {
+  position: absolute;
+}
+#header .header-image-bottom {
+  grid-area: image;
+  border: 1px red solid;
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-end;
+}
+#header .header-image-bottom .img-card {
+  padding-left: 10px;
+}
+#header .header-image-bottom .img-card img {
+  width: 50px;
+}
+#header .header-image-bottom .img-pizza img {
+  width: 500px;
+}
+#header .header-image-bottom .img-fork {
+  padding-right: 10px;
+}
+#header .header-image-bottom .img-fork img {
+  width: 50px;
+}
+
+/*# sourceMappingURL=index.css.map */
