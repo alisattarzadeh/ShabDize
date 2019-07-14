@@ -100,7 +100,19 @@
   z-index: 1;
 }
 #header .header-top .menu-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#header .header-top .menu-icon #text-menu-icon {
+  display: inline-block;
   font-size: 30px;
+  transform: rotateZ(90deg);
+}
+#header .header-top .menu-icon span {
+  padding-right: 10px;
+  padding-bottom: 8px;
+  display: inline-block;
 }
 #header .header-menu-top {
   grid-area: menu;
@@ -166,18 +178,38 @@
   align-items: flex-end;
 }
 #header .header-image-bottom .img-card {
-  padding-left: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
-#header .header-image-bottom .img-card img {
+#header .header-image-bottom .img-card #chagho {
+  margin-left: 200px;
+  height: 300px;
+  width: 40px;
+}
+#header .header-image-bottom .img-card #sos2 {
+  margin-left: 200px;
+  height: 50px;
   width: 50px;
 }
 #header .header-image-bottom .img-pizza img {
   width: 500px;
 }
 #header .header-image-bottom .img-fork {
-  padding-right: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
-#header .header-image-bottom .img-fork img {
+#header .header-image-bottom .img-fork #sos {
+  margin-right: 200px;
+  height: 50px;
+  width: 50px;
+}
+#header .header-image-bottom .img-fork #changal {
+  margin-right: 200px;
+  height: 300px;
   width: 50px;
 }
 
