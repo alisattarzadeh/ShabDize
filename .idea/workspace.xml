@@ -2,58 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4b7d50-3e6d-49dc-a8a0-7ac71bcf66d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom-sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/slideout.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.extensions.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/bower.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/backgrounds.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/callbacks.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/demoPage.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/examples.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/horizontalScroll.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/compatible.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/flowers.mp4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/pagePiling-plugin.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/pagePiling-plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/looping.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/noAnchors.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/scrollingSpeed.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/videoBackground.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,8 +22,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="96">
-                  <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+                <state relative-caret-position="411">
+                  <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
                   <folding>
                     <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                   </folding>
@@ -148,8 +97,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$USER_HOME$/Desktop/slideout-1.0.1/test/index.right.html" />
         <option value="$PROJECT_DIR$/test.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/custom-sass/index.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -246,7 +195,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22272000" />
+    <option name="totallyTimeSpent" value="22392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
@@ -425,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="411">
+          <caret line="21" column="7" lean-forward="true" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
           </folding>
