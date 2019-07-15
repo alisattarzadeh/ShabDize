@@ -2,9 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4b7d50-3e6d-49dc-a8a0-7ac71bcf66d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom-sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom-sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/slideout.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.extensions.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/dist/fullpage.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/easings.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/fullpage.js/vendors/scrolloverflow.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/dist/jquery.pagepiling.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/backgrounds.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/callbacks.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/demoPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/examples.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/horizontalScroll.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/colors3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/compatible.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/flowers.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/pagePiling-plugin.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/imgs/pagePiling-plugin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/looping.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/noAnchors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/scrollingSpeed.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/examples/videoBackground.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/gulpfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/jquery.pagepiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/pagepiling.js/package.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +73,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="384">
-                  <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+                <state relative-caret-position="96">
+                  <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
                   <folding>
                     <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                    <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
               </provider>
@@ -55,16 +103,7 @@
             <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="286">
-                  <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/custom-sass/variable.scss">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="24">
-                  <caret line="1" column="17" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+                  <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -136,7 +175,7 @@
             <path>
               <item name="ShabDize" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShabDize" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,14 +246,15 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21608000" />
+    <option name="totallyTimeSpent" value="22272000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="1912" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="npm" order="0" sideWeight="0.45945945" side_tool="true" weight="0.28038067" />
       <window_info id="Favorites" order="1" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.55859375" visible="true" weight="0.1608073" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.55859375" visible="true" weight="0.16071428" />
       <window_info id="Structure" order="3" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.2942899" />
@@ -362,31 +402,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Desktop/tilted-navigation-clip-path/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="113" selection-start-line="113" selection-end-line="138" selection-end-column="9" />
-          <folding>
-            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/slideout-1.0.1/test/index.right.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/slideout-1.0.1/test/test.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3451" />
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Desktop/tilted-navigation-clip-path/index.html" />
+    <entry file="file://$USER_HOME$/Desktop/slideout-1.0.1/test/index.right.html" />
+    <entry file="file://$USER_HOME$/Desktop/slideout-1.0.1/test/test.css" />
     <entry file="file://$PROJECT_DIR$/js/slideout.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -407,11 +425,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+        <state relative-caret-position="96">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
           <folding>
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -419,7 +436,7 @@
     <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
