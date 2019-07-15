@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0d4b7d50-3e6d-49dc-a8a0-7ac71bcf66d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/js/slideout.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom-sass/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/custom-sass/index.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/custom-sass/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/custom-sass/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,9 +24,10 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="472">
-                  <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+                <state relative-caret-position="384">
+                  <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
                   <folding>
+                    <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                     <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
                   </folding>
                 </state>
@@ -55,8 +54,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="866">
-                  <caret line="267" selection-start-line="267" selection-end-line="267" />
+                <state relative-caret-position="286">
+                  <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
                 </state>
               </provider>
             </entry>
@@ -108,16 +107,18 @@
         <option value="$PROJECT_DIR$/package-lock.json" />
         <option value="$PROJECT_DIR$/custom-sass/index.css" />
         <option value="$PROJECT_DIR$/.gitignore" />
-        <option value="$PROJECT_DIR$/custom-sass/index.scss" />
         <option value="$USER_HOME$/Desktop/slideout-1.0.1/test/index.right.html" />
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/custom-sass/index.scss" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="1939" />
+    <option name="height" value="1049" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,15 +207,14 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20871000" />
+    <option name="totallyTimeSpent" value="21608000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="0" width="1680" height="1050" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="npm" order="0" sideWeight="0.45945945" side_tool="true" weight="0.28038067" />
       <window_info id="Favorites" order="1" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.55859375" visible="true" weight="0.14702381" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" sideWeight="0.55859375" visible="true" weight="0.1608073" />
       <window_info id="Structure" order="3" sideWeight="0.44140625" side_tool="true" weight="0.18960468" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.2942899" />
@@ -375,13 +375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="866">
-          <caret line="267" selection-start-line="267" selection-end-line="267" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Desktop/slideout-1.0.1/test/index.right.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -414,11 +407,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="96" column="38" selection-start-line="96" selection-start-column="38" selection-end-line="96" selection-end-column="38" />
+        <state relative-caret-position="384">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
           <folding>
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#script#5;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom-sass/index.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
